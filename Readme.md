@@ -15,12 +15,7 @@
 
 ## My Profile README
 
-Hi there! I'm **Tajdari**, a learner exploring the world of software.
-
-### Interests
-- Web development
-- Machine learning
-- Open source communities
+Hi there! I'm **Tajdari**, a learner exploring the world of hardware.
 
 ### Current Projects
 - [ ] Build a personal portfolio site
@@ -31,11 +26,6 @@ Hi there! I'm **Tajdari**, a learner exploring the world of software.
 | Hobby | Why I love it |
 |-------|---------------|
 |Reading poems | It is interesting. |
-
-```bash
-# My go-to Git command
-git log --oneline --graph --decorate
-```
 
 ### Course Feedback
 - Loved the hands-on Git practice
